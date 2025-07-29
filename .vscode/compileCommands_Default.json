@@ -1,0 +1,74 @@
+[
+	{
+		"file": "C:\\Users\\Danish\\Documents\\Unreal Projects\\C++ Coursework\\ObstacleRush\\Source\\ObstacleRush\\MovingPlatform.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Danish\\Documents\\Unreal Projects\\C++ Coursework\\ObstacleRush\\.vscode\\compileCommands_Default\\ObstacleRush.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Danish\\Documents\\Unreal Projects\\C++ Coursework\\ObstacleRush\\Source\\ObstacleRush\\MovingPlatform.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Danish\\Documents\\Unreal Projects\\C++ Coursework\\ObstacleRush\\.vscode\\compileCommands_Default\\ObstacleRush.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Danish\\Documents\\Unreal Projects\\C++ Coursework\\ObstacleRush\\Source\\ObstacleRush\\ObstacleRush.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Danish\\Documents\\Unreal Projects\\C++ Coursework\\ObstacleRush\\.vscode\\compileCommands_Default\\ObstacleRush.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Danish\\Documents\\Unreal Projects\\C++ Coursework\\ObstacleRush\\Source\\ObstacleRush\\ObstacleRush.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Danish\\Documents\\Unreal Projects\\C++ Coursework\\ObstacleRush\\.vscode\\compileCommands_Default\\ObstacleRush.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Danish\\Documents\\Unreal Projects\\C++ Coursework\\ObstacleRush\\Source\\ObstacleRush\\ObstacleRush.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Danish\\Documents\\Unreal Projects\\C++ Coursework\\ObstacleRush\\.vscode\\compileCommands_Default\\ObstacleRush.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Danish\\Documents\\Unreal Projects\\C++ Coursework\\ObstacleRush\\Source\\ObstacleRush\\ObstacleRushCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Danish\\Documents\\Unreal Projects\\C++ Coursework\\ObstacleRush\\.vscode\\compileCommands_Default\\ObstacleRush.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Danish\\Documents\\Unreal Projects\\C++ Coursework\\ObstacleRush\\Source\\ObstacleRush\\ObstacleRushCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Danish\\Documents\\Unreal Projects\\C++ Coursework\\ObstacleRush\\.vscode\\compileCommands_Default\\ObstacleRush.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Danish\\Documents\\Unreal Projects\\C++ Coursework\\ObstacleRush\\Source\\ObstacleRush\\ObstacleRushGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Danish\\Documents\\Unreal Projects\\C++ Coursework\\ObstacleRush\\.vscode\\compileCommands_Default\\ObstacleRush.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Danish\\Documents\\Unreal Projects\\C++ Coursework\\ObstacleRush\\Source\\ObstacleRush\\ObstacleRushGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Danish\\Documents\\Unreal Projects\\C++ Coursework\\ObstacleRush\\.vscode\\compileCommands_Default\\ObstacleRush.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	}
+]
